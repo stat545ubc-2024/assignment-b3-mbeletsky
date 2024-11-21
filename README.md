@@ -1,12 +1,12 @@
 # Welcome to Maria Beletsky's Assignment B3 for STAT 545B. 
 
 This repo contains source materials for a Shiny application made with the "shiny"
-R package.
+R package and deployed online on shinyapps.io.
 
 My Shiny app shows Grizzly bear population data in British Columbia, Canada, in 2015 and 2018. 
 The dataset used was obtained [here](https://catalogue.data.gov.bc.ca/dataset/grizzly-bear-population-estimates), from the BC Data Catalogue.
 
-To access the app, click here.
+To access the app, click [here](http://mbeletsky.shinyapps.io/assignmentb3-mbeletsky).
 
 The app shows a subset of the BC grizzly bear population data from 2015 and 2018. 
 In the app, you can select the year to view and then view a table showing bear 
