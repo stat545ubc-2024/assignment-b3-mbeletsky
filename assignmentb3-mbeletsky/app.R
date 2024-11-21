@@ -25,6 +25,8 @@ ui <- fluidPage(
           width = 600,
           alt = "Picture of two grizzly bears in water."),
         tags$figcaption("Photo attribution: kamchatka on FreePik")),
+      p(),
+      p(strong("This table shows 240 grizzly bear population sub-units in BC and the number of bears in each one.")),
       tableOutput("grzly_year"),
 # Feature 3: Interactive colouring of the plot. This feature is useful because
 # it enhances user engagement level by allowing them to play and interact with
