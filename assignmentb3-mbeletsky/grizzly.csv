@@ -1,0 +1,241 @@
+OBJECTID,GRIZZLY_BEAR_POP_UNIT_ID,GRIZZLY_BEAR_POPULATION_TAG,POPULATION_NAME,DISPLAY_NAME,STATUS,WITHIN_BC_IND,REGION_RESPONSIBLE_NAME,GAME_MANAGEMENT_ZONE_NAME,National_Park,Closed_to_Hunting_2012,Closed_to_Hunting_2015,AREA_KM2,AREA_KM2_noWaterIce,EST_POP_2015,EST_POP_2018,EST_POP_DENSITY_2015,EST_POP_DENSITY_2018
+1,777,84,Tatshenshini,Tatshenshini,Viable,Y,Skeena,Atlin,,N,N,6790.531914,5096.290546,113,113,22.1729908,22.1729908
+2,778,73,Cassiar,Cassiar,Viable,Y,Skeena,Atlin,,N,N,6079.633169,5578.501868,84,84,15.05780602,15.05780602
+3,778,73,Cassiar,Cassiar,Viable,Y,Skeena,Stikine,,N,N,9386.913439,9271.714803,179,179,19.30603027,19.30603027
+4,778,73,Cassiar,Cassiar,Viable,Y,Skeena,Stikine,,N,N,11059.73825,10834.07205,167,167,15.41433334,15.41433334
+5,779,51,Taiga,Taiga,Viable,Y,Omineca,Fort Nelson,,Y,Y,6143.768152,6123.903362,12,12,1.959534526,1.959534526
+6,779,51,Taiga,Taiga,Viable,Y,Omineca,Fort Nelson,,Y,Y,18119.02148,17782.22871,30,30,1.687077641,1.687077641
+7,779,51,Taiga,Taiga,Viable,Y,Omineca,Fort Nelson,,Y,Y,15897.94786,15753.93381,32,32,2.031238794,2.031238794
+8,779,51,Taiga,Taiga,Viable,Y,Omineca,Fort Nelson,,Y,Y,9884.881328,9837.327973,20,20,2.033072472,2.033072472
+9,780,52,Hyland,Hyland,Viable,Y,Omineca,Liard,,N,N,9859.401039,9810.780485,98,98,9.989011765,9.989011765
+10,780,52,Hyland,Hyland,Viable,Y,Omineca,Liard,,N,N,7516.635611,7409.810714,133,133,17.94917679,17.94917679
+11,781,55,Muskwa,Muskwa,Viable,Y,Omineca,Liard,,N,N,17527.01183,17328.84252,459,459,26.48763084,26.48763084
+12,781,55,Muskwa,Muskwa,Viable,Y,Omineca,Liard,,N,N,18490.99202,17862.49016,381,381,21.32961273,21.32961273
+13,782,54,Taku,Taku,Viable,Y,Skeena,Atlin,,N,N,19007.92574,16754.38973,354,354,21.12879181,21.12879181
+14,782,54,Taku,Taku,Viable,Y,Skeena,Stikine,,N,N,13334.87744,10993.83745,222,222,20.19313049,20.19313049
+15,783,1,Rocky,Rocky,Viable,Y,Omineca,Northeast Rockies,,N,N,3389.433083,3095.981176,36,36,11.62797737,11.62797737
+16,783,1,Rocky,Rocky,Viable,Y,Omineca,North Peace,,N,N,2369.068573,2361.179309,24,24,10.1644125,10.1644125
+17,783,1,Rocky,Rocky,Viable,Y,Omineca,North Peace,,N,N,2375.507652,2352.955026,23,23,9.774942398,9.774942398
+18,783,1,Rocky,Rocky,Viable,Y,Omineca,Fort Nelson,,N,N,11030.04687,10937.06895,108,108,9.874674797,9.874674797
+19,783,1,Rocky,Rocky,Viable,Y,Omineca,Northeast Rockies,,N,N,6807.037089,6594.512617,137,137,20.77484894,20.77484894
+20,783,1,Rocky,Rocky,Viable,Y,Omineca,Northeast Rockies,,N,N,6065.820764,5982.830097,120,120,20.05739784,20.05739784
+21,783,1,Rocky,Rocky,Viable,Y,Omineca,Northeast Rockies,,N,N,2522.791307,2515.430271,52,52,20.67240715,20.67240715
+22,783,1,Rocky,Rocky,Viable,Y,Omineca,Northeast Rockies,,N,N,788.2852125,786.0895737,13,13,16.53755569,16.53755569
+23,783,1,Rocky,Rocky,Viable,Y,Omineca,Northeast Rockies,,N,N,3033.44181,3032.657182,25,25,8.243596077,8.243596077
+24,784,2,Alta,Alta,Viable,Y,Omineca,North Peace,,N,N,6213.850267,6195.390922,62,62,10.00743961,10.00743961
+25,784,2,Alta,Alta,Viable,Y,Omineca,Fort Nelson,,N,N,7042.262141,6985.083568,70,70,10.02135468,10.02135468
+26,785,56,Spatsizi,Spatsizi,Viable,Y,Skeena,Stikine,,Y,Y,430.5723432,409.1447716,14,14,34.21771622,34.21771622
+27,786,83,Edziza-Lower Stikine,Edziza-Lower Stikine,Viable,Y,Skeena,Stikine,,N,N,2652.947596,2457.765217,72,72,29.29490471,29.29490471
+28,787,3,Finlay-Ospika,Finlay-\Ospika,Viable,Y,Omineca,Upper Finlay,,N,N,7524.937882,7383.881463,216,216,29.2529068,29.2529068
+29,787,3,Finlay-Ospika,Finlay-\Ospika,Viable,Y,Omineca,Upper Finlay,,N,N,7939.880055,7760.355869,208,208,26.80289459,26.80289459
+30,787,3,Finlay-Ospika,Finlay-\Ospika,Viable,Y,Omineca,Upper Finlay,,N,N,8817.168979,8650.627471,370,370,42.7714653,42.7714653
+31,787,3,Finlay-Ospika,Finlay-\Ospika,Viable,Y,Omineca,Upper Finlay,,N,N,6473.526145,6054.73699,177,177,29.23330879,29.23330879
+32,788,59,Upper Skeena-Nass,Upper \Skeena-\Nass,Viable,Y,Skeena,Upper Skeena,,N,N,6626.012439,6537.034789,294,294,44.97451782,44.97451782
+33,788,59,Upper Skeena-Nass,Upper \Skeena-\Nass,Viable,Y,Skeena,Upper Skeena,,N,N,10371.97357,9545.770732,461,461,48.29364014,48.29364014
+34,790,62,Stewart,Stewart,Viable,Y,Skeena,North Coast,,N,N,2959.375188,1884.588435,70,70,37.14338684,37.14338684
+35,790,62,Stewart,Stewart,Viable,Y,Skeena,North Coast,,N,N,5163.74876,3952.673612,185,185,46.80376434,46.80376434
+36,791,5,Omineca,Omineca,Viable,Y,Omineca,Omineca,,N,N,13071.83964,12688.63789,308,308,24.27368546,24.27368546
+37,791,5,Omineca,Omineca,Viable,Y,Omineca,Omineca,,N,N,5659.034959,5324.731673,37,37,6.948707104,6.948707104
+38,791,5,Omineca,Omineca,Viable,Y,Omineca,Omineca,,N,N,3606.775343,3246.405414,18,18,5.544593811,5.544593811
+39,791,5,Omineca,Omineca,Viable,Y,Omineca,Omineca,,N,N,7717.925272,7486.027031,39,39,5.20970583,5.20970583
+40,792,63,Cranberry,Cranberry,Viable,Y,Skeena,Upper Skeena,,N,N,2412.101692,2360.1386,74,74,31.35409164,31.35409164
+41,792,63,Cranberry,Cranberry,Viable,Y,Skeena,North Coast,,N,N,2167.161587,2140.992625,64,64,29.89267731,29.89267731
+42,793,61,Babine,Babine,Viable,Y,Skeena,Upper Skeena,,N,N,4535.607373,4351.974758,154,154,35.38623428,35.38623428
+43,793,61,Babine,Babine,Viable,Y,Skeena,Upper Nechako,,N,N,9787.006696,9391.05643,159,159,16.93100166,16.93100166
+44,794,82,Moberly,Moberly,Viable,Y,Omineca,Omineca,,Y,Y,2414.709641,2168.914177,13,13,5.99378252,5.99378252
+45,794,82,Moberly,Moberly,Viable,Y,Omineca,South Peace,,Y,Y,5397.647223,5353.238679,58,58,10.8345623,10.8345623
+46,795,7,Parsnip,Parsnip,Viable,Y,Omineca,Upper Fraser,,N,N,3943.788279,3689.847039,181,181,49.05352402,49.05352402
+47,795,7,Parsnip,Parsnip,Viable,Y,Omineca,Upper Fraser,,N,N,2735.833718,2702.660002,64,64,23.68037415,23.68037415
+48,796,65,Bulkley-Lakes,Bulkley-\Lakes,Viable,Y,Skeena,Upper Nechako,,N,N,6784.176918,6334.515722,111,111,17.52304459,17.52304459
+49,796,65,Bulkley-Lakes,Bulkley-\Lakes,Viable,Y,Skeena,Upper Nechako,,N,N,1295.850934,1270.907072,10,10,7.868395805,7.868395805
+50,797,66,Khutzeymateen,Khutzeymateen,Viable,Y,Skeena,North Coast,,Y,Y,4274.196069,3788.914265,170,170,44.867733,44.867733
+51,798,64,Nation,Nation,Viable,Y,Omineca,Mcleod Lake,,N,N,5095.499558,4861.836226,56,56,11.51828194,11.51828194
+52,798,64,Nation,Nation,Viable,Y,Omineca,Mcleod Lake,,N,N,3342.340994,3212.252021,18,18,5.603545189,5.603545189
+53,798,64,Nation,Nation,Viable,Y,Omineca,Mcleod Lake,,N,N,457.9112579,453.367593,8,8,17.64572525,17.64572525
+54,798,64,Nation,Nation,Viable,Y,Omineca,Mcleod Lake,,N,N,4777.061508,4064.388357,23,23,5.65890789,5.65890789
+55,798,64,Nation,Nation,Viable,Y,Omineca,Mcleod Lake,,N,N,1684.307533,1616.144285,9,9,5.568809509,5.568809509
+56,799,70,Francois,Francois,Viable,Y,Skeena,Upper Nechako,,Y,Y,2747.457172,2482.228963,18,18,7.25154686,7.25154686
+57,799,70,Francois,Francois,Viable,Y,Skeena,Upper Nechako,,Y,Y,1032.549162,1016.501941,7,7,6.886361599,6.886361599
+58,799,70,Francois,Francois,Viable,Y,Skeena,Upper Nechako,,Y,Y,4920.343646,4279.109315,33,33,7.711885452,7.711885452
+59,800,67,North Coast,North \Coast,Viable,Y,Skeena,North Coast,,N,N,5729.899827,5000.2432,166,166,33.19838333,33.19838333
+60,800,67,North Coast,North \Coast,Viable,Y,Skeena,North Coast,,N,N,1437.899888,1247.214129,24,24,19.2428875,19.2428875
+61,801,10,Robson,Robson,Viable,Y,Omineca,Fort George,,N,N,3002.861571,2944.570926,59,59,20.03687477,20.03687477
+62,801,10,Robson,Robson,Viable,Y,Omineca,Fort George,,N,N,2014.086552,1991.180898,61,61,30.63508606,30.63508606
+63,801,10,Robson,Robson,Viable,Y,Omineca,Upper Fraser,,N,N,3014.228227,2898.847597,77,77,26.56227875,26.56227875
+64,801,10,Robson,Robson,Viable,Y,Omineca,Upper Fraser,,N,N,3779.038886,3674.655948,129,129,35.10532761,35.10532761
+65,801,10,Robson,Robson,Viable,Y,Omineca,Upper Fraser,,N,N,2690.339673,2289.929931,60,60,26.20167542,26.20167542
+66,802,69,Tweedsmuir,Tweedsmuir,Viable,Y,Cariboo,North Chilcotin,,Y,Y,3432.0788,3326.89583,63,63,18.93657112,18.93657112
+67,802,69,Tweedsmuir,Tweedsmuir,Viable,Y,Cariboo,Central Coast,,N,N,1217.00676,898.5925364,25,25,27.82128525,27.82128525
+68,802,69,Tweedsmuir,Tweedsmuir,Viable,Y,Cariboo,Central Coast,,N,N,1514.688133,1343.23818,42,42,31.26772308,31.26772308
+69,802,69,Tweedsmuir,Tweedsmuir,Viable,Y,Cariboo,Central Coast,,Y,Y,2013.126004,1899.758896,56,56,29.47742462,29.47742462
+70,802,69,Tweedsmuir,Tweedsmuir,Viable,Y,Skeena,Upper Nechako,,N,N,4847.774866,4232.305071,51,51,12.0501709,12.0501709
+71,803,15,Kitlope-Fiordland,Kitlope-\Fiordland,Viable,Y,Skeena,North Coast,,Y,Y,6923.311489,5709.514822,115,115,20.14181709,20.14181709
+72,804,11,Blackwater-West Chilcotin,Blackwater-\West Chilcotin,Threatened,Y,Cariboo,North Chilcotin,,Y,Y,8237.930022,8149.875802,15,15,1.840518832,1.840518832
+73,804,11,Blackwater-West Chilcotin,Blackwater-\West Chilcotin,Threatened,Y,Cariboo,North Chilcotin,,Y,Y,10182.47581,10032.52806,20,20,1.993515491,1.993515491
+74,804,11,Blackwater-West Chilcotin,Blackwater-\West Chilcotin,Threatened,Y,Skeena,Upper Nechako,,Y,Y,4242.002683,4048.219506,18,18,4.446399212,4.446399212
+75,806,12,Quesnel Lake North,Quesnel \Lake \North,Viable,Y,Cariboo,Quesnel Highland,,Y,Y,1144.279982,1028.923753,30,30,29.15667915,29.15667915
+76,806,12,Quesnel Lake North,Quesnel \Lake \North,Viable,Y,Cariboo,Quesnel Highland,,N,N,1667.744699,1532.282455,36,36,23.49436378,23.49436378
+77,807,16,Wells Gray,Wells \Gray,Viable,Y,Thompson,North Thompson,,Y,Y,3205.076698,2846.202234,75,75,26.35090256,26.35090256
+78,807,16,Wells Gray,Wells \Gray,Viable,Y,Thompson,North Thompson,,N,N,1694.866739,1584.315746,75,75,47.33905029,47.33905029
+79,807,16,Wells Gray,Wells \Gray,Viable,Y,Thompson,North Thompson,,Y,Y,2201.402264,2058.180434,61,61,29.63782883,29.63782883
+80,807,16,Wells Gray,Wells \Gray,Viable,Y,Thompson,North Thompson,,Y,Y,1656.297543,1645.388688,28,28,17.01725578,17.01725578
+81,807,16,Wells Gray,Wells \Gray,Viable,Y,Thompson,North Thompson,,Y,Y,1592.149736,1557.729153,25,25,16.0490036,16.0490036
+82,807,16,Wells Gray,Wells \Gray,Viable,Y,Cariboo,Cariboo,,Y,Y,2032.185037,1934.949016,19,19,9.819379807,9.819379807
+83,808,14,Columbia-Shuswap,Columbia-\Shuswap,Viable,Y,Thompson,North Thompson,,Y,Y,955.9930047,947.4363523,20,20,21.10959816,21.10959816
+84,808,14,Columbia-Shuswap,Columbia-\Shuswap,Viable,Y,Thompson,North Thompson,,Y,Y,1678.85675,1655.424149,5,5,3.02037406,3.02037406
+85,808,14,Columbia-Shuswap,Columbia-\Shuswap,Viable,Y,Thompson,North Thompson,,N,N,1871.380524,1722.662745,15,15,8.707449913,8.707449913
+86,810,21,Klinaklini-Homathko,Klinaklini-\Homathko,Viable,Y,Lower Mainland,South Coast,,Y,Y,2270.292622,1395.440314,68,68,48.73013687,48.73013687
+87,810,21,Klinaklini-Homathko,Klinaklini-\Homathko,Viable,Y,Cariboo,South Chilcotin,,Y,Y,5864.96847,5103.63485,104,104,20.37763405,20.37763405
+88,811,20,Kwatna-Owikeno,Kwatna-\Owikeno,Viable,Y,Cariboo,Central Coast,,Y,Y,7489.32871,5754.395189,138,138,23.98166847,23.98166847
+89,813,36,South Chilcotin Ranges,South \Chilcotin \Ranges,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,2149.873979,1819.175662,25,27,13.74248791,14.84188747
+90,813,36,South Chilcotin Ranges,South \Chilcotin \Ranges,Threatened,Y,Thompson,West Fraser,,Y,Y,2363.605614,2095.017352,27,30,12.88772106,14.3196907
+91,813,36,South Chilcotin Ranges,South \Chilcotin \Ranges,Threatened,Y,Cariboo,South Chilcotin,,Y,Y,8304.003884,7728.870866,87,95,11.25649548,12.29157543
+92,813,36,South Chilcotin Ranges,South \Chilcotin \Ranges,Threatened,Y,Cariboo,South Chilcotin,,Y,Y,3662.268943,3643.664586,28,31,7.684571266,8.507918358
+93,820,37,Toba-Bute,Toba-\Bute,Viable,Y,Lower Mainland,South Coast,,Y,Y,1944.600669,1766.243267,15,17,8.492601395,9.624948502
+94,823,40,Stein-Nahatlatch,Stein-\Nahatlatch,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,1146.034992,1087.689796,2,2,1.838759542,1.838759542
+95,823,40,Stein-Nahatlatch,Stein-\Nahatlatch,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,1533.118026,1423.258056,1,1,0.702613294,0.702613294
+96,823,40,Stein-Nahatlatch,Stein-\Nahatlatch,Threatened,Y,Thompson,West Fraser,,Y,Y,3076.856429,2990.537707,14,13,4.681432247,4.347044468
+97,823,40,Stein-Nahatlatch,Stein-\Nahatlatch,Threatened,Y,Thompson,West Fraser,,Y,Y,2039.084776,1978.255651,7,6,3.538470984,3.032974958
+98,824,39,Squamish-Lillooet,Squamish-\Lillooet,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,2763.317,2283.983396,30,23,13.13494682,10.07012558
+99,828,43,North Cascades,North \Cascades,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,998.2899694,993.9036791,0,0,0,0
+100,828,43,North Cascades,North \Cascades,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,979.3304429,972.454734,0,0,0,0
+101,828,43,North Cascades,North \Cascades,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,1004.469213,979.7270179,0,0,0,0
+102,828,43,North Cascades,North \Cascades,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,659.5944755,658.399281,0,0,0,0
+103,828,43,North Cascades,North \Cascades,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,50.51343004,50.51343004,0,0,0,0
+104,828,43,North Cascades,North \Cascades,Threatened,Y,Thompson,Nicola,,Y,Y,1282.235011,1281.198151,1,1,0.780519366,0.780519366
+105,828,43,North Cascades,North \Cascades,Threatened,Y,Thompson,Nicola,,Y,Y,1084.226235,1083.059348,1,1,0.923310459,0.923310459
+106,828,43,North Cascades,North \Cascades,Threatened,Y,Okanagan,Similkameen,,Y,Y,1614.046855,1613.853343,0,0,0,0
+107,828,43,North Cascades,North \Cascades,Threatened,Y,Okanagan,Similkameen,,Y,Y,930.4312134,929.7414839,2,2,2.151135683,2.151135683
+108,828,43,North Cascades,North \Cascades,Threatened,Y,Okanagan,Similkameen,,Y,Y,1200.248794,1199.923122,2,2,1.666773438,1.666773438
+109,829,44,Garibaldi-Pitt,Garibaldi-\Pitt,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,1746.302446,1592.496437,1,2,0.627944887,1.255889773
+110,829,44,Garibaldi-Pitt,Garibaldi-\Pitt,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,1013.108559,904.4554049,1,1,1.10563767,1.10563767
+111,829,44,Garibaldi-Pitt,Garibaldi-\Pitt,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,3035.739823,2760.162574,0,0,0,0
+112,829,44,Garibaldi-Pitt,Garibaldi-\Pitt,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,797.3895985,706.6326872,0,0,0,0
+113,836,6,Hart,Hart,Viable,Y,Omineca,South Peace,,N,N,4365.125525,4345.722378,38,38,8.744231224,8.744231224
+114,836,6,Hart,Hart,Viable,Y,Omineca,South Peace,,N,N,6732.57737,6664.15244,59,59,8.853339195,8.853339195
+115,836,6,Hart,Hart,Viable,Y,Omineca,South Peace,,N,N,4371.778412,4333.95131,79,79,18.22817039,18.22817039
+116,837,68,Nulki,Nulki,Viable,Y,Omineca,Fort George,,Y,Y,2774.543501,2665.874012,7,7,2.625780582,2.625780582
+117,837,68,Nulki,Nulki,Viable,Y,Omineca,Fort George,,Y,Y,2310.193828,2227.916667,6,6,2.693099022,2.693099022
+118,837,68,Nulki,Nulki,Viable,Y,Omineca,Fort George,,Y,Y,1751.929925,1735.245895,4,4,2.30514884,2.30514884
+119,837,68,Nulki,Nulki,Viable,Y,Omineca,Fort George,,Y,Y,5279.943827,5107.186923,13,13,2.545432568,2.545432568
+120,837,68,Nulki,Nulki,Viable,Y,Omineca,Fort George,,Y,Y,1457.578375,1433.656056,4,4,2.79006958,2.79006958
+121,837,68,Nulki,Nulki,Viable,Y,Omineca,Fort George,,Y,Y,1899.208269,1846.659278,5,5,2.70759201,2.70759201
+122,796,65,Bulkley-Lakes,Bulkley-\Lakes,Viable,Y,Skeena,North Coast,,Y,Y,2483.286719,2306.645932,103,103,44.65357971,44.65357971
+123,802,69,Tweedsmuir,Tweedsmuir,Viable,Y,Skeena,Upper Nechako,,Y,Y,1453.405961,1202.0614,6,6,4.991425514,4.991425514
+124,806,12,Quesnel Lake North,Quesnel \Lake \North,Viable,Y,Cariboo,Cariboo,,Y,Y,684.3700359,679.1652573,6,6,8.834374428,8.834374428
+125,807,16,Wells Gray,Wells \Gray,Viable,Y,Cariboo,Quesnel Highland,,N,N,2053.328989,2017.526502,58,58,28.74807358,28.74807358
+126,807,16,Wells Gray,Wells \Gray,Viable,Y,Cariboo,Cariboo,,Y,Y,255.2106631,245.2432971,4,4,16.31033325,16.31033325
+127,811,20,Kwatna-Owikeno,Kwatna-\Owikeno,Viable,Y,Cariboo,Central Coast,,N,N,4649.400525,3488.727165,91,91,26.08401108,26.08401108
+128,813,36,South Chilcotin Ranges,South \Chilcotin \Ranges,Threatened,Y,Thompson,West Fraser,,Y,Y,3833.631493,3742.984925,36,39,9.617992401,10.41949177
+129,820,37,Toba-Bute,Toba-\Bute,Viable,Y,Lower Mainland,South Coast,,Y,Y,3155.0937,2155.205029,51,57,23.66364098,26.44759941
+130,820,37,Toba-Bute,Toba-\Bute,Viable,Y,Lower Mainland,South Coast,,Y,Y,2779.476125,2167.875041,49,55,22.60277939,25.37046623
+131,820,37,Toba-Bute,Toba-\Bute,Viable,Y,Lower Mainland,South Coast,,Y,Y,154.9974358,131.5406527,1,1,7.602212429,7.602212429
+132,824,39,Squamish-Lillooet,Squamish-\Lillooet,Threatened,Y,Lower Mainland,South Coast,,Y,Y,1844.211241,1662.166092,15,12,9.02436924,7.219495296
+133,824,39,Squamish-Lillooet,Squamish-\Lillooet,Threatened,Y,Lower Mainland,Fraser Valley,,Y,Y,1241.311457,1032.188013,14,11,13.5634203,10.65697289
+134,835,32,Knight-Bute,Knight-\Bute,Viable,Y,Lower Mainland,South Coast,,Y,Y,1217.9152,1004.738582,46,46,45.78305435,45.78305435
+135,837,68,Nulki,Nulki,Viable,Y,Omineca,Fort George,,Y,Y,1324.133648,1312.221467,5,5,3.810332537,3.810332537
+136,778,73,Cassiar,Cassiar,Viable,Y,Skeena,Atlin,,N,N,10410.88823,10043.18512,181,181,18.02217102,18.02217102
+137,795,7,Parsnip,Parsnip,Viable,Y,Omineca,Mcleod Lake,,N,N,456.4489289,455.7303828,22,22,48.27415848,48.27415848
+138,795,7,Parsnip,Parsnip,Viable,Y,Omineca,Mcleod Lake,,N,N,460.615751,450.7752846,20,20,44.36800385,44.36800385
+139,795,7,Parsnip,Parsnip,Viable,Y,Omineca,Mcleod Lake,,N,N,1038.943453,1036.054356,51,51,49.22521591,49.22521591
+140,795,7,Parsnip,Parsnip,Viable,Y,Omineca,Mcleod Lake,,N,N,1176.887305,1173.245981,57,57,48.58316422,48.58316422
+141,795,7,Parsnip,Parsnip,Viable,Y,Omineca,Mcleod Lake,,N,N,1212.443995,1208.876628,60,60,49.63285446,49.63285446
+142,798,64,Nation,Nation,Viable,Y,Omineca,Mcleod Lake,,N,N,651.1221705,625.7578703,11,11,17.57868385,17.57868385
+143,798,64,Nation,Nation,Viable,Y,Omineca,Mcleod Lake,,N,N,2678.228002,2645.940555,45,45,17.00718498,17.00718498
+144,836,6,Hart,Hart,Viable,Y,Omineca,South Peace,,N,N,4160.692933,4157.733447,68,68,16.35506439,16.35506439
+145,806,12,Quesnel Lake North,Quesnel \Lake \North,Viable,Y,Cariboo,Quesnel Highland,,N,N,2776.658229,2350.030597,69,69,29.3613205,29.3613205
+146,806,12,Quesnel Lake North,Quesnel \Lake \North,Viable,Y,Cariboo,Quesnel Highland,,N,N,3101.143333,3088.78362,46,46,14.89259434,14.89259434
+147,810,21,Klinaklini-Homathko,Klinaklini-\Homathko,Viable,Y,Cariboo,South Chilcotin,,Y,N,6712.807581,5858.204297,79,79,13.4853611,13.4853611
+148,785,56,Spatsizi,Spatsizi,Viable,Y,Skeena,Stikine,,N,N,5743.022438,5707.437172,177,177,31.01216698,31.01216698
+149,785,56,Spatsizi,Spatsizi,Viable,Y,Skeena,Stikine,,N,N,1835.160081,1802.255869,57,57,31.62702942,31.62702942
+150,785,56,Spatsizi,Spatsizi,Viable,Y,Skeena,Stikine,,N,N,558.2393763,556.735837,17,17,30.53512764,30.53512764
+151,785,56,Spatsizi,Spatsizi,Viable,Y,Skeena,Stikine,,N,N,5505.25061,4948.849913,165,165,33.34107971,33.34107971
+152,785,56,Spatsizi,Spatsizi,Viable,Y,Skeena,Stikine,,N,N,7633.124115,7438.799556,236,236,31.7255497,31.7255497
+153,786,83,Edziza-Lower Stikine,Edziza-Lower Stikine,Viable,Y,Skeena,Stikine,,N,N,14477.48687,11092.23973,326,326,29.38991737,29.38991737
+154,790,62,Stewart,Stewart,Viable,Y,Skeena,North Coast,,N,N,3617.327504,3042.516935,103,103,33.85354996,33.85354996
+155,792,63,Cranberry,Cranberry,Viable,Y,Skeena,Upper Skeena,,N,N,4442.399459,4347.379555,134,134,30.82316589,30.82316589
+156,792,63,Cranberry,Cranberry,Viable,Y,Skeena,North Coast,,N,N,2751.682861,2632.77903,80,80,30.38614273,30.38614273
+157,796,65,Bulkley-Lakes,Bulkley-\Lakes,Viable,Y,Skeena,Upper Nechako,,N,N,7350.081765,7070.108462,123,123,17.39718628,17.39718628
+158,796,65,Bulkley-Lakes,Bulkley-\Lakes,Viable,Y,Skeena,North Coast,,N,N,3065.484533,2766.721525,73,73,26.3850193,26.3850193
+159,796,65,Bulkley-Lakes,Bulkley-\Lakes,Viable,Y,Skeena,Upper Nechako,,N,N,2905.010744,2495.213803,19,19,7.61457777,7.61457777
+160,802,69,Tweedsmuir,Tweedsmuir,Viable,Y,Cariboo,Central Coast,,N,N,2554.486915,1750.375851,29,29,16.56787109,16.56787109
+161,802,69,Tweedsmuir,Tweedsmuir,Viable,Y,Cariboo,Central Coast,,Y,Y,2332.239861,2007.737453,96,96,47.8150177,47.8150177
+162,803,15,Kitlope-Fiordland,Kitlope-\Fiordland,Viable,Y,Cariboo,Central Coast,,N,N,3420.75808,2835.564131,65,65,22.92312813,22.92312813
+163,835,32,Knight-Bute,Knight-\Bute,Viable,Y,Vancouver Island,Knight Inlet,,Y,Y,1131.663766,965.565487,47,47,48.67613983,48.67613983
+164,835,32,Knight-Bute,Knight-\Bute,Viable,Y,Vancouver Island,Knight Inlet,,N,N,1689.144403,1030.987307,49,49,47.52725983,47.52725983
+165,835,32,Knight-Bute,Knight-\Bute,Viable,Y,Vancouver Island,Knight Inlet,,N,N,3252.605078,2367.432252,108,108,45.61904526,45.61904526
+166,817,27,Kingcome-Wakeman,Kingcome-\Wakeman,Viable,Y,Vancouver Island,Knight Inlet,,Y,Y,1888.207407,849.7446563,13,13,15.29871368,15.29871368
+167,817,27,Kingcome-Wakeman,Kingcome-\Wakeman,Viable,Y,Vancouver Island,Knight Inlet,,N,N,1711.5625,1291.095804,65,65,50.34482956,50.34482956
+168,817,27,Kingcome-Wakeman,Kingcome-\Wakeman,Viable,Y,Vancouver Island,Knight Inlet,,N,N,3262.244899,2712.944446,121,121,44.60098648,44.60098648
+169,797,66,Khutzeymateen,Khutzeymateen,Viable,Y,Skeena,North Coast,,Y,Y,3947.014474,3431.72693,107,107,31.17963791,31.17963791
+170,803,15,Kitlope-Fiordland,Kitlope-\Fiordland,Viable,Y,Cariboo,Central Coast,,Y,Y,842.1762725,721.824728,34,34,47.10284805,47.10284805
+171,777,84,Tatshenshini,Tatshenshini,Viable,Y,Skeena,Atlin,,N,N,9434.610846,6279.669377,223,223,35.51142502,35.51142502
+172,777,84,Tatshenshini,Tatshenshini,Viable,Y,Skeena,Atlin,,N,N,3540.090406,3091.008065,71,71,22.96985245,22.96985245
+173,801,10,Robson,Robson,Viable,Y,Omineca,Upper Fraser,,Y,Y,2195.536855,2008.902691,56,56,27.87591553,27.87591553
+174,801,10,Robson,Robson,Viable,Y,Omineca,Upper Fraser,,N,N,3339.472336,2985.231407,92,92,30.81838226,30.81838226
+175,808,14,Columbia-Shuswap,Columbia-\Shuswap,Viable,Y,Thompson,North Thompson,,N,N,1191.492002,1002.84276,42,42,41.8809433,41.8809433
+176,808,14,Columbia-Shuswap,Columbia-\Shuswap,Viable,Y,Thompson,North Thompson,,N,N,1527.469999,1460.586919,35,35,23.96296883,23.96296883
+177,808,14,Columbia-Shuswap,Columbia-\Shuswap,Viable,Y,Thompson,North Thompson,,N,N,2866.476888,2656.515815,62,62,23.33884048,23.33884048
+178,808,14,Columbia-Shuswap,Columbia-\Shuswap,Viable,Y,Thompson,North Thompson,,N,N,848.0784555,833.986,30,30,35.97182846,35.97182846
+179,809,17,Central Rockies,Central \Rockies,Viable,Y,Kootenay,Golden,,N,N,2801.708992,2189.549792,77,77,35.16704559,35.16704559
+180,809,17,Central Rockies,Central \Rockies,Viable,Y,Kootenay,Golden,Yoho National Park,Y,Y,766.1351657,688.2322826,16,16,23.24796486,23.24796486
+181,812,18,North Selkirk,North \Selkirk,Viable,Y,Kootenay,Golden,Glacier National Park,Y,Y,508.9263355,470.569387,25,25,53.1271286,53.1271286
+182,814,23,Rockies Park Ranges,Rockies \Park \Ranges,Viable,Y,Kootenay,Golden,,N,N,1358.198304,1340.459942,24,24,17.9043026,17.9043026
+183,814,23,Rockies Park Ranges,Rockies \Park \Ranges,Viable,Y,Kootenay,Fernie,,N,N,2541.32395,2501.552576,56,56,22.38609695,22.38609695
+184,816,26,North Purcells,North \Purcells,Viable,Y,Kootenay,Golden,Glacier National Park,Y,Y,470.0125899,402.8405751,10,10,24.82371521,24.82371521
+185,816,26,North Purcells,North \Purcells,Viable,Y,Kootenay,Revelstoke,,N,N,1594.17081,1264.368842,54,54,42.70905685,42.70905685
+186,816,26,North Purcells,North \Purcells,Viable,Y,Kootenay,Revelstoke,,N,N,845.3553851,711.1630519,37,37,52.02745056,52.02745056
+187,816,26,North Purcells,North \Purcells,Viable,Y,Kootenay,Revelstoke,,N,N,811.7863483,777.5205111,38,38,48.87331009,48.87331009
+188,818,38,Central Monashee,Central \Monashee,Viable,Y,Thompson,North Thompson,,Y,Y,493.7820329,490.1279162,11,11,22.44312096,22.44312096
+189,818,38,Central Monashee,Central \Monashee,Viable,Y,Kootenay,Revelstoke,,N,N,786.9083175,756.7030019,21,21,27.7519722,27.7519722
+190,818,38,Central Monashee,Central \Monashee,Viable,Y,Okanagan,Monashee,,N,N,1211.995821,1210.303216,26,26,21.4822197,21.4822197
+191,818,38,Central Monashee,Central \Monashee,Viable,Y,Okanagan,Monashee,,N,N,975.4104061,943.9307414,19,19,20.12859535,20.12859535
+192,818,38,Central Monashee,Central \Monashee,Viable,Y,Okanagan,Monashee,,Y,Y,174.8624801,174.8142693,3,3,17.16106987,17.16106987
+193,818,38,Central Monashee,Central \Monashee,Viable,Y,Okanagan,Kettle,,Y,Y,111.2596088,110.3813748,2,2,18.11899948,18.11899948
+194,818,38,Central Monashee,Central \Monashee,Viable,Y,Okanagan,Okanagan,,Y,Y,149.1111986,149.1111986,3,3,20.1192131,20.1192131
+195,821,29,South Rockies,South \Rockies,Viable,Y,Kootenay,Fernie,,Y,Y,1848.213193,1834.424682,68,38,37.06884384,20.71494102
+196,821,29,South Rockies,South \Rockies,Viable,Y,Kootenay,Fernie,,Y,Y,2413.490505,2299.051787,87,49,37.84168625,21.31313515
+197,821,29,South Rockies,South \Rockies,Viable,Y,Kootenay,Fernie,,Y,Y,1322.259417,1296.860921,49,28,37.78354263,21.59059525
+198,822,74,Central Selkirk,Central \Selkirk,Viable,Y,Kootenay,Revelstoke,,N,N,1252.243882,1250.714813,46,46,36.77896881,36.77896881
+199,822,74,Central Selkirk,Central \Selkirk,Viable,Y,Kootenay,Revelstoke,,N,N,1322.429922,1211.390245,51,51,42.10038757,42.10038757
+200,822,74,Central Selkirk,Central \Selkirk,Viable,Y,Kootenay,Nelson,,Y,Y,281.543724,280.2574019,5,5,17.84074211,17.84074211
+201,822,74,Central Selkirk,Central \Selkirk,Viable,Y,Kootenay,Nelson,,Y,Y,489.9795833,489.8833975,8,8,16.33041573,16.33041573
+202,826,41,Valhalla,Valhalla,Viable,Y,Kootenay,Nelson,,Y,Y,781.0391663,779.2923582,10,10,12.83215427,12.83215427
+203,826,41,Valhalla,Valhalla,Viable,Y,Kootenay,Nelson,,N,N,153.5124757,140.5003294,10,10,71.17420959,71.17420959
+204,827,42,Kettle-Granby,Kettle-\Granby,Threatened,Y,Kootenay,Nelson,,Y,Y,887.0185839,886.9066758,12,12,13.53017235,13.53017235
+205,827,42,Kettle-Granby,Kettle-\Granby,Threatened,Y,Kootenay,Nelson,,Y,Y,1205.353197,1197.161931,12,12,10.02370644,10.02370644
+206,827,42,Kettle-Granby,Kettle-\Granby,Threatened,Y,Okanagan,Monashee,,Y,Y,326.6142516,325.6931689,5,5,15.35187244,15.35187244
+207,827,42,Kettle-Granby,Kettle-\Granby,Threatened,Y,Okanagan,Kettle,,Y,Y,455.816899,455.3486234,6,6,13.1767168,13.1767168
+208,827,42,Kettle-Granby,Kettle-\Granby,Threatened,Y,Okanagan,Kettle,,Y,Y,2338.220414,2314.006568,32,33,13.82882881,14.26097965
+209,827,42,Kettle-Granby,Kettle-\Granby,Threatened,Y,Okanagan,Okanagan,,Y,Y,72.67176137,71.20832521,1,1,14.04330158,14.04330158
+210,830,35,Flathead,Flathead,Viable,Y,Kootenay,Fernie,,N,N,694.4679452,694.3073849,33,26,47.5293808,37.44739151
+211,830,35,Flathead,Flathead,Viable,Y,Kootenay,Fernie,,N,N,1558.245182,1557.096211,80,63,51.37768555,40.45992661
+212,830,35,Flathead,Flathead,Viable,Y,Kootenay,Fernie,,N,N,1236.847962,1227.016448,65,51,52.97402573,41.56423569
+213,832,45,Yahk,Yahk,Threatened,Y,Kootenay,Cranbrook,,Y,Y,1628.004693,1601.597836,10,10,6.243764877,6.243764877
+214,832,45,Yahk,Yahk,Threatened,Y,Kootenay,Cranbrook,,Y,Y,1105.608827,1103.79357,10,10,9.059664726,9.059664726
+215,833,46,South Selkirk,South \Selkirk,Threatened,Y,Kootenay,Nelson,,Y,Y,1899.901913,1893.239084,29,29,15.31766415,15.31766415
+216,833,46,South Selkirk,South \Selkirk,Threatened,Y,Kootenay,Nelson,,Y,Y,2168.584085,2157.049162,29,29,13.44429302,13.44429302
+217,838,85,Central-South Purcells,Central-South Purcells,Viable,Y,Kootenay,Cranbrook,,N,N,3185.648253,2943.39585,58,58,19.70513153,19.70513153
+218,838,85,Central-South Purcells,Central-South Purcells,Viable,Y,Kootenay,Cranbrook,,Y,Y,3826.904662,3804.409363,52,52,13.66835022,13.66835022
+219,838,85,Central-South Purcells,Central-South Purcells,Viable,Y,Kootenay,Cranbrook,,Y,Y,846.373067,838.4641801,8,8,9.541254044,9.541254044
+220,838,85,Central-South Purcells,Central-South Purcells,Viable,Y,Kootenay,Nelson,,N,N,1433.615074,1352.646613,28,28,20.70015907,20.70015907
+221,838,85,Central-South Purcells,Central-South Purcells,Viable,Y,Kootenay,Nelson,,Y,Y,2260.71335,2244.282876,30,30,13.36729908,13.36729908
+222,827,42,Kettle-Granby,Kettle-\Granby,Threatened,Y,Okanagan,Kettle,,Y,Y,1322.736094,1321.568737,18,18,13.62017727,13.62017727
+223,818,38,Central Monashee,Central \Monashee,Viable,Y,Kootenay,Revelstoke,,N,N,1719.250098,1697.795416,48,48,28.2719574,28.2719574
+224,822,74,Central Selkirk,Central \Selkirk,Viable,Y,Kootenay,Nelson,,N,N,1408.37413,1342.215896,49,49,36.50679398,36.50679398
+225,822,74,Central Selkirk,Central \Selkirk,Viable,Y,Kootenay,Nelson,,N,N,887.2642405,878.2482042,29,29,33.02027893,33.02027893
+226,826,41,Valhalla,Valhalla,Viable,Y,Kootenay,Nelson,,N,N,920.4651022,919.6249268,28,28,30.44719505,30.44719505
+227,826,41,Valhalla,Valhalla,Viable,Y,Kootenay,Nelson,,Y,Y,1668.454801,1620.341453,40,40,24.68615532,24.68615532
+228,821,29,South Rockies,South \Rockies,Viable,Y,Kootenay,Fernie,,Y,Y,884.6506947,871.5878872,32,18,36.71459961,20.65196228
+229,821,29,South Rockies,South \Rockies,Viable,Y,Kootenay,Fernie,,Y,Y,1737.918353,1723.131135,66,37,38.30236816,21.47253799
+230,816,26,North Purcells,North \Purcells,Viable,Y,Kootenay,Revelstoke,Glacier National Park,Y,Y,375.4014054,299.4056028,16,16,53.4392128,53.4392128
+231,812,18,North Selkirk,North \Selkirk,Viable,Y,Kootenay,Golden,,N,N,1761.284306,1399.391742,67,67,47.87794495,47.87794495
+232,816,26,North Purcells,North \Purcells,Viable,Y,Kootenay,Golden,,N,N,3588.440642,3348.041564,88,88,26.28402328,26.28402328
+233,809,17,Central Rockies,Central \Rockies,Viable,Y,Kootenay,Golden,,N,N,3524.437077,3181.064675,76,76,23.89137268,23.89137268
+234,814,23,Rockies Park Ranges,Rockies \Park \Ranges,Viable,Y,Kootenay,Golden,Yoho-Kootenay National Park,Y,Y,1290.440038,1247.352226,22,22,17.63735962,17.63735962
+235,814,23,Rockies Park Ranges,Rockies \Park \Ranges,Viable,Y,Kootenay,Fernie,Kootenay National Park,Y,Y,619.9336404,611.2872449,14,14,22.90249062,22.90249062
+236,808,14,Columbia-Shuswap,Columbia-\Shuswap,Viable,Y,Kootenay,Revelstoke,,N,N,2635.2832,2363.866597,109,109,46.11089325,46.11089325
+237,812,18,North Selkirk,North \Selkirk,Viable,Y,Kootenay,Revelstoke,Mount Revelstoke National Park,Y,Y,263.2151667,247.0956143,13,13,52.61121368,52.61121368
+238,812,18,North Selkirk,North \Selkirk,Viable,Y,Kootenay,Revelstoke,,N,N,3615.597391,3319.434547,160,160,48.20098114,48.20098114
+239,816,26,North Purcells,North \Purcells,Viable,Y,Kootenay,Revelstoke,,N,N,1933.29713,1780.738691,89,89,49.97925949,49.97925949
+240,818,38,Central Monashee,Central \Monashee,Viable,Y,Okanagan,Monashee,,Y,N,720.3381585,718.6321921,14,14,19.48145485,19.48145485
