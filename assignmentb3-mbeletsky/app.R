@@ -1,7 +1,6 @@
 library(shiny)
 library(colourpicker)
 library(tidyverse)
-#Photo attribution: kamchatka on FreePik
 grizzly <- read.csv("grizzly.csv", stringsAsFactors = FALSE)
 ui <- fluidPage(
   titlePanel("Grizzly Bear Population - British Columbia, Canada (2015 and 2018)"),
