@@ -47,7 +47,7 @@ server <- function(input, output) {
   output$id_scatterplot <- renderPlot({
     ggplot(grizzly, aes(x=AREA_KM2, y= EST_POP_2018)) +
       geom_point(col = input$col) +
-      labs(caption = "Population size is dependent on area in km^2. \n Each point represents an individual grizzly population in BC. \n Area in km^2 of a population's territory is on the x-axis \n Number of bears in the population is on the y-axis.") +
+      labs(caption = "Population size is dependent on area in km^2. \n Each point represents an individual grizzly population in BC. \n Area in km^2 of a population's territory is on the x-axis \n Number of bears in the population sub-unit is on the y-axis.") +
       theme(plot.caption = element_text(size = 12))
       })
 }
