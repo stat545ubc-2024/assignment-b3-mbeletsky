@@ -8,6 +8,8 @@ The dataset used was obtained [here](https://catalogue.data.gov.bc.ca/dataset/gr
 
 To access the app, click here.
 
+Let's make some edits.
+
 The app shows a subset of the BC grizzly bear population data from 2015 and 2018. 
 In the app, you can select the year to view and then view a table showing bear 
 population in each population sub-unit for that year and a plot showing how 
