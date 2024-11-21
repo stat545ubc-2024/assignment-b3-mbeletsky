@@ -11,6 +11,13 @@ ui <- fluidPage(
                     "2018" = "EST_POP_2018")),
     ),
     mainPanel(
+      tags$figure(
+        class = "centerFigure",
+        tags$img(
+          src = "grizzly.png",
+          width = 600,
+          alt = "Picture of two grizzly bears in water."),
+        tags$figcaption("Photo attribution: kamchatka on FreePik")),
       tableOutput("grzly_year")
     )
   )
